@@ -1,1 +1,1 @@
-Olá, essa é uma lista com varíos exercícios de python que eu mesmo resolvir do curso 'Programação em Python do básico ao avançado'
+Olá, esse é um Design de um hexagon que eu mesmo desenvolvi em Python.
